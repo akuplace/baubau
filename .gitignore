@@ -1,0 +1,15 @@
+.DS_Store/
+.git/
+.svelte-kit/
+build/
+node_modules/
+.env
+.env.*
+!.env.example
+.idea/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Ignore files for NPM and YARN
+package-lock.json
+yarn.lock
